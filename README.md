@@ -19,7 +19,7 @@ a.out<br>
 
 # Tests
 
-compile and execute this code on linux terminal,and type the command you want to.
+compile and execute this code on linux terminal,and type the command you want.
 
 # Notice
 
