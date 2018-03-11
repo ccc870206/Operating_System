@@ -23,4 +23,4 @@ execute this code on linux terminal,and type the command you want to.
 
 # Notice
 
-this code only provide very simple command,some complex commands like cd can't be supported.
+this code only support very simple command,some complex commands like cd can't be supported.
