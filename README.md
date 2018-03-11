@@ -15,7 +15,7 @@ As description.
 test.c<br>
 example.pdf<br>
 a.out<br>
->ls –l > a.txt<br></p>
+>ls -l > a.txt<br></p>
 
 # Tests
 
