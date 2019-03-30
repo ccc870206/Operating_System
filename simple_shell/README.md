@@ -1,7 +1,7 @@
 
 # Synopsis
 
-As description.
+A simple Linux shell in C,only for some simple command.
 
 # Code Example
 
